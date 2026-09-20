@@ -1,0 +1,11 @@
+{
+  "name": "SudsGo",
+  "description": "On-demand doorstep car & bike wash platform with dynamic pricing, live GPS technician dispatch, double-entry wallet ledger, and AI computer-vision clean check.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
